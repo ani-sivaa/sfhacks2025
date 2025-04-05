@@ -9,47 +9,16 @@ const config = {
   theme: {
     extend: {
       colors: {
-        'neon-blue': 'var(--neon-blue)',
-        'neon-purple': 'var(--neon-purple)',
-        'neon-green': 'var(--neon-green)',
-        'cyber-dark': 'var(--cyber-dark)',
-        'cyber-darker': 'var(--cyber-darker)',
-        'cyber-light': 'var(--cyber-light)',
+        'warm-beige': 'var(--warm-beige)',
+        'soft-brown': 'var(--soft-brown)',
+        'deep-maroon': 'var(--deep-maroon)',
+        'healing-green': 'var(--healing-green)',
+        'calm-blue': 'var(--calm-blue)',
+        'dark-base': 'var(--dark-base)',
       },
       fontFamily: {
         sans: ['var(--font-geist-sans)', 'sans-serif'],
         mono: ['var(--font-geist-mono)', 'monospace'],
-      },
-      boxShadow: {
-        'neon-blue': '0 0 10px var(--neon-blue), 0 0 20px var(--neon-blue)',
-        'neon-purple': '0 0 10px var(--neon-purple), 0 0 20px var(--neon-purple)',
-        'neon-green': '0 0 10px var(--neon-green), 0 0 20px var(--neon-green)',
-      },
-      animation: {
-        'glow-pulse': 'glow-pulse 2s ease-in-out infinite',
-        'float': 'float 6s ease-in-out infinite',
-        'scan': 'scan 2s linear infinite',
-      },
-      keyframes: {
-        'glow-pulse': {
-          '0%, 100%': { 
-            textShadow: '0 0 5px var(--neon-blue), 0 0 10px var(--neon-blue)'
-          },
-          '50%': { 
-            textShadow: '0 0 15px var(--neon-blue), 0 0 30px var(--neon-blue)'
-          },
-        },
-        'float': {
-          '0%, 100%': { transform: 'translateY(0)' },
-          '50%': { transform: 'translateY(-10px)' },
-        },
-        'scan': {
-          '0%': { top: '0%' },
-          '100%': { top: '100%' },
-        },
-      },
-      backdropBlur: {
-        xs: '2px',
       },
     },
   },
