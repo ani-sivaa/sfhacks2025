@@ -1,0 +1,139 @@
+@import "tailwindcss";
+
+:root {
+  --neon-blue: #00f3ff;
+  --neon-purple: #b537f2;
+  --neon-green: #00ff8c;
+  --cyber-dark: #0a0b1e;
+  --cyber-darker: #050614;
+  --cyber-light: #2a2b4a;
+  --glass-bg: rgba(16, 17, 38, 0.7);
+}
+
+@theme inline {
+  --color-background: var(--cyber-dark);
+  --color-foreground: #ffffff;
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--cyber-dark);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+}
+
+/* Futuristic scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--cyber-darker);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--neon-blue);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--neon-purple);
+}
+
+/* Glowing text effect */
+.glow-text {
+  text-shadow: 0 0 10px var(--neon-blue),
+               0 0 20px var(--neon-blue),
+               0 0 30px var(--neon-blue);
+}
+
+/* Glass morphism */
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Animated gradient background */
+.cyber-gradient {
+  background: linear-gradient(
+    45deg,
+    var(--cyber-dark),
+    var(--cyber-darker),
+    var(--cyber-light)
+  );
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Neon border effect */
+.neon-border {
+  position: relative;
+}
+
+.neon-border::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(45deg, var(--neon-blue), var(--neon-purple), var(--neon-green));
+  filter: blur(5px);
+  z-index: -1;
+}
+
+/* Loading animation */
+.cyber-loading {
+  position: relative;
+  width: 60px;
+  height: 60px;
+}
+
+.cyber-loading::before,
+.cyber-loading::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border: 2px solid transparent;
+  border-radius: 50%;
+  animation: cyber-spin 1.5s linear infinite;
+}
+
+.cyber-loading::before {
+  border-top-color: var(--neon-blue);
+  border-right-color: var(--neon-purple);
+}
+
+.cyber-loading::after {
+  border-bottom-color: var(--neon-green);
+  border-left-color: var(--neon-blue);
+  animation-delay: 0.75s;
+}
+
+@keyframes cyber-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
