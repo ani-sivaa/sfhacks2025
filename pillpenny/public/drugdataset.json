@@ -1,0 +1,1346 @@
+[
+    {
+      "basic_details": {
+        "brand_name": "Lipitor",
+        "generic_name": "Atorvastatin",
+        "manufacturer": "Pfizer",
+        "drug_class": "HMG-CoA reductase inhibitors (Statins)"
+      },
+      "composition": {
+        "active_ingredients": "Atorvastatin calcium",
+        "strength_dosage": "10mg, 20mg, 40mg, 80mg",
+        "inactive_ingredients": "Calcium carbonate, candelilla wax, croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, Opadry White, polysorbate 80, simethicone emulsion",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "10-80 mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "May be taken at any time of day, with or without food",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature (20-25°C/68-77°F)"
+      },
+      "medical_information": {
+        "primary_uses": "Treatment of high cholesterol and triglyceride levels; prevention of cardiovascular disease",
+        "contraindications": "Active liver disease, pregnancy, breastfeeding, hypersensitivity to atorvastatin",
+        "side_effects": "Muscle pain/weakness, liver problems, digestive issues, increased blood sugar, memory problems",
+        "drug_interactions": "Cyclosporine, erythromycin, antifungal medications, protease inhibitors, certain antibiotics, grapefruit juice",
+        "warnings_precautions": "Risk of rhabdomyolysis (muscle breakdown), liver enzyme abnormalities, potential increased risk of diabetes",
+        "pregnancy_nursing": "Category X (contraindicated in pregnancy); not recommended during breastfeeding"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$400-600 for 30 tablets (20mg)",
+        "generic_price": "$10-30 for 30 tablets (20mg)",
+        "insurance_coverage": "Typically covered by most insurance plans, often as a preferred medication",
+        "discount_program": "Eligible for manufacturer savings card and various discount programs",
+        "assistance_programs": "Pfizer RxPathways program for eligible patients",
+        "typical_copay": "$30-75 brand, $5-20 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Multiple national chains and independent pharmacies",
+        "chain_affiliation": "Available at all major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Prinivil/Zestril",
+        "generic_name": "Lisinopril",
+        "manufacturer": "Merck (Prinivil) / AstraZeneca (Zestril)",
+        "drug_class": "Angiotensin-Converting Enzyme (ACE) Inhibitor"
+      },
+      "composition": {
+        "active_ingredients": "Lisinopril",
+        "strength_dosage": "2.5mg, 5mg, 10mg, 20mg, 30mg, 40mg",
+        "inactive_ingredients": "Calcium phosphate, mannitol, magnesium stearate, starch, iron oxide",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "10-40mg daily depending on indication",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken with or without food. Consistent timing recommended",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Treatment of hypertension, heart failure, post-myocardial infarction, diabetic nephropathy",
+        "contraindications": "History of angioedema, pregnancy, hypersensitivity to ACE inhibitors",
+        "side_effects": "Dry cough, dizziness, headache, fatigue, hypotension, hyperkalemia, impaired renal function",
+        "drug_interactions": "Potassium supplements, potassium-sparing diuretics, lithium, NSAIDs, aliskiren",
+        "warnings_precautions": "Risk of angioedema, hypotension, hyperkalemia, renal impairment, neutropenia",
+        "pregnancy_nursing": "Category D (positive evidence of risk); not recommended during pregnancy or breastfeeding"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$50-100 for 30 tablets (brand)",
+        "generic_price": "$4-10 for 30 tablets (generic)",
+        "insurance_coverage": "Widely covered by insurance plans, usually as a preferred generic",
+        "discount_program": "Available on many discount program formularies",
+        "assistance_programs": "Patient assistance programs through manufacturers for eligible patients",
+        "typical_copay": "$5-15 with insurance (generic)"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Glucophage",
+        "generic_name": "Metformin",
+        "manufacturer": "Bristol-Myers Squibb",
+        "drug_class": "Biguanide Antihyperglycemic"
+      },
+      "composition": {
+        "active_ingredients": "Metformin hydrochloride",
+        "strength_dosage": "500mg, 850mg, 1000mg",
+        "inactive_ingredients": "Povidone, magnesium stearate, hypromellose",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "500-2550mg daily depending on response",
+        "frequency": "Twice or three times daily with meals",
+        "special_instructions": "Take with meals to minimize gastrointestinal side effects",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Type 2 diabetes mellitus management, polycystic ovary syndrome, insulin resistance",
+        "contraindications": "Renal dysfunction, metabolic acidosis, diabetic ketoacidosis, severe infections",
+        "side_effects": "Gastrointestinal issues (diarrhea, nausea), metallic taste, vitamin B12 deficiency with long-term use",
+        "drug_interactions": "Cimetidine, furosemide, nifedipine, cationic drugs, iodinated contrast media",
+        "warnings_precautions": "Lactic acidosis risk (rare but serious), should be temporarily discontinued before procedures with iodinated contrast",
+        "pregnancy_nursing": "Category B (no evidence of risk in humans); generally considered safe during pregnancy and breastfeeding"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$50-100 for 60 tablets (brand)",
+        "generic_price": "$4-15 for 60 tablets (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many pharmacy discount programs, including $4 generic programs",
+        "assistance_programs": "Patient assistance through manufacturer for eligible patients",
+        "typical_copay": "$5-15 with insurance (generic)"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Norvasc",
+        "generic_name": "Amlodipine",
+        "manufacturer": "Pfizer",
+        "drug_class": "Calcium Channel Blocker"
+      },
+      "composition": {
+        "active_ingredients": "Amlodipine besylate",
+        "strength_dosage": "2.5mg, 5mg, 10mg",
+        "inactive_ingredients": "Microcrystalline cellulose, dibasic calcium phosphate, sodium starch glycolate, magnesium stearate",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "5-10mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken with or without food",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Treatment of hypertension, coronary artery disease, angina",
+        "contraindications": "Hypersensitivity to amlodipine or other dihydropyridine calcium channel blockers",
+        "side_effects": "Peripheral edema, dizziness, flushing, headache, fatigue, palpitations",
+        "drug_interactions": "CYP3A4 inhibitors/inducers, simvastatin, cyclosporine",
+        "warnings_precautions": "Increased angina or myocardial infarction with dose initiation or increase, hypotension",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$150-200 for 30 tablets (brand)",
+        "generic_price": "$4-20 for 30 tablets (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many pharmacy discount programs",
+        "assistance_programs": "Pfizer RxPathways for eligible patients",
+        "typical_copay": "$5-20 with insurance (generic)"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Crestor",
+        "generic_name": "Rosuvastatin",
+        "manufacturer": "AstraZeneca",
+        "drug_class": "HMG-CoA reductase inhibitors (Statins)"
+      },
+      "composition": {
+        "active_ingredients": "Rosuvastatin calcium",
+        "strength_dosage": "5mg, 10mg, 20mg, 40mg",
+        "inactive_ingredients": "Microcrystalline cellulose, lactose monohydrate, tribasic calcium phosphate, crospovidone, magnesium stearate, hypromellose, triacetin, titanium dioxide",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "5-40mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken at any time of day, with or without food",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature (20-25°C/68-77°F)"
+      },
+      "medical_information": {
+        "primary_uses": "Treatment of high cholesterol, prevention of cardiovascular disease",
+        "contraindications": "Active liver disease, pregnancy, breastfeeding, hypersensitivity to rosuvastatin",
+        "side_effects": "Muscle pain/weakness, liver enzyme abnormalities, headache, nausea",
+        "drug_interactions": "Cyclosporine, gemfibrozil, protease inhibitors, certain antibiotics, warfarin",
+        "warnings_precautions": "Risk of myopathy/rhabdomyolysis, liver enzyme elevations, increased HbA1c and fasting glucose",
+        "pregnancy_nursing": "Category X (contraindicated in pregnancy); not recommended during breastfeeding"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$250-300 for 30 tablets (brand)",
+        "generic_price": "$15-60 for 30 tablets (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "AstraZeneca patient assistance program for eligible patients",
+        "typical_copay": "$30-75 brand, $5-30 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Synthroid",
+        "generic_name": "Levothyroxine",
+        "manufacturer": "Abbott Laboratories",
+        "drug_class": "Thyroid Hormone Replacement"
+      },
+      "composition": {
+        "active_ingredients": "Levothyroxine sodium",
+        "strength_dosage": "Multiple strengths from 25mcg to 300mcg",
+        "inactive_ingredients": "Acacia, lactose monohydrate, magnesium stearate, microcrystalline cellulose, coloring additives",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "Varies based on individual needs, typically 100-200mcg daily",
+        "frequency": "Once daily",
+        "special_instructions": "Take on an empty stomach, 30-60 minutes before breakfast. Separate from other medications by 4 hours",
+        "duration_of_treatment": "Lifelong therapy for most patients",
+        "storage_requirements": "Store at room temperature away from light and moisture"
+      },
+      "medical_information": {
+        "primary_uses": "Hypothyroidism, thyroid hormone replacement, thyroid cancer management",
+        "contraindications": "Untreated thyrotoxicosis, acute myocardial infarction, uncorrected adrenal insufficiency",
+        "side_effects": "Weight loss, tremors, headache, nervousness, insomnia, diarrhea (often due to excessive dosing)",
+        "drug_interactions": "Calcium supplements, iron, antacids, cholestyramine, orlistat, certain seizure medications",
+        "warnings_precautions": "Risk of cardiac adverse reactions in elderly and those with cardiovascular disease",
+        "pregnancy_nursing": "Category A (no risk in controlled human studies); dose adjustments may be needed during pregnancy"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$50-100 for 30 tablets (brand)",
+        "generic_price": "$10-40 for 30 tablets (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many discount program formularies",
+        "assistance_programs": "Patient assistance programs available for eligible patients",
+        "typical_copay": "$15-40 brand, $5-15 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Nexium",
+        "generic_name": "Esomeprazole",
+        "manufacturer": "AstraZeneca",
+        "drug_class": "Proton Pump Inhibitor (PPI)"
+      },
+      "composition": {
+        "active_ingredients": "Esomeprazole magnesium",
+        "strength_dosage": "20mg, 40mg",
+        "inactive_ingredients": "Glyceryl monostearate, hydroxypropyl cellulose, hypromellose, magnesium stearate, methacrylic acid copolymer, talc, triethyl citrate",
+        "form": "Delayed-release capsule, Delayed-release tablet"
+      },
+      "administration": {
+        "recommended_dosage": "20-40mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Take at least 1 hour before meals. Swallow capsules whole; do not crush or chew",
+        "duration_of_treatment": "Short-term (4-8 weeks) for most indications; maintenance therapy for some conditions",
+        "storage_requirements": "Store at room temperature away from moisture"
+      },
+      "medical_information": {
+        "primary_uses": "Gastroesophageal reflux disease (GERD), erosive esophagitis, H. pylori infection (as part of combination therapy), Zollinger-Ellison syndrome",
+        "contraindications": "Hypersensitivity to esomeprazole or other PPIs",
+        "side_effects": "Headache, diarrhea, nausea, abdominal pain, flatulence, constipation",
+        "drug_interactions": "Clopidogrel, diazepam, digoxin, cilostazol, tacrolimus, warfarin, atazanavir",
+        "warnings_precautions": "Increased risk of fractures with long-term use, vitamin B12 deficiency, hypomagnesemia, C. difficile infection",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$200-250 for 30 capsules (brand)",
+        "generic_price": "$15-50 for 30 capsules (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "AstraZeneca patient assistance program for eligible patients",
+        "typical_copay": "$30-60 brand, $5-20 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Advair Diskus",
+        "generic_name": "Fluticasone and Salmeterol",
+        "manufacturer": "GlaxoSmithKline",
+        "drug_class": "Combination Corticosteroid and Long-Acting Beta-Agonist (LABA)"
+      },
+      "composition": {
+        "active_ingredients": "Fluticasone propionate and salmeterol xinafoate",
+        "strength_dosage": "100/50mcg, 250/50mcg, 500/50mcg (fluticasone/salmeterol)",
+        "inactive_ingredients": "Lactose monohydrate",
+        "form": "Inhalation powder"
+      },
+      "administration": {
+        "recommended_dosage": "1 inhalation twice daily",
+        "frequency": "Twice daily, approximately 12 hours apart",
+        "special_instructions": "Rinse mouth after use to prevent thrush. Do not use with a spacer device",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture, heat, and light"
+      },
+      "medical_information": {
+        "primary_uses": "Asthma maintenance, chronic obstructive pulmonary disease (COPD)",
+        "contraindications": "Primary treatment of status asthmaticus, severe hypersensitivity to milk proteins",
+        "side_effects": "Throat irritation, hoarseness, oral candidiasis, headache, upper respiratory tract infection",
+        "drug_interactions": "Strong CYP3A4 inhibitors, beta-blockers, diuretics",
+        "warnings_precautions": "Increased risk of asthma-related death with LABAs, glaucoma, cataracts, reduced growth velocity in children",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$350-500 for 1 inhaler (brand)",
+        "generic_price": "$75-200 for 1 inhaler (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for manufacturer savings program and various discount programs",
+        "assistance_programs": "GSK patient assistance program for eligible patients",
+        "typical_copay": "$30-75 brand, $15-50 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Lexapro",
+        "generic_name": "Escitalopram",
+        "manufacturer": "Forest Laboratories/Allergan",
+        "drug_class": "Selective Serotonin Reuptake Inhibitor (SSRI)"
+      },
+      "composition": {
+        "active_ingredients": "Escitalopram oxalate",
+        "strength_dosage": "5mg, 10mg, 20mg",
+        "inactive_ingredients": "Talc, croscarmellose sodium, microcrystalline cellulose, magnesium stearate",
+        "form": "Tablet, Oral solution"
+      },
+      "administration": {
+        "recommended_dosage": "10-20mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken with or without food, at the same time each day",
+        "duration_of_treatment": "Months to years depending on condition and response",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Major depressive disorder, generalized anxiety disorder",
+        "contraindications": "Use of MAO inhibitors within 14 days, concomitant pimozide",
+        "side_effects": "Nausea, insomnia, sexual dysfunction, somnolence, fatigue, increased sweating",
+        "drug_interactions": "MAOIs, triptans, other SSRIs/SNRIs, tryptophan, tramadol, linezolid",
+        "warnings_precautions": "Suicidal thoughts/behaviors, serotonin syndrome, activation of mania/hypomania, seizures, hyponatremia",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); potential for neonatal complications if used in third trimester"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$200-300 for 30 tablets (brand)",
+        "generic_price": "$10-40 for 30 tablets (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many discount program formularies",
+        "assistance_programs": "Patient assistance programs for eligible patients",
+        "typical_copay": "$30-60 brand, $5-20 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Prilosec",
+        "generic_name": "Omeprazole",
+        "manufacturer": "AstraZeneca",
+        "drug_class": "Proton Pump Inhibitor (PPI)"
+      },
+      "composition": {
+        "active_ingredients": "Omeprazole",
+        "strength_dosage": "10mg, 20mg, 40mg",
+        "inactive_ingredients": "Hydroxypropyl methylcellulose, iron oxide, mannitol, methacrylic acid copolymer, polyethylene glycol, sodium starch glycolate",
+        "form": "Delayed-release capsule, Delayed-release tablet"
+      },
+      "administration": {
+        "recommended_dosage": "20-40mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Take before meals, preferably in the morning. Swallow capsules whole; do not crush or chew",
+        "duration_of_treatment": "Short-term (4-8 weeks) for most indications; maintenance therapy for some conditions",
+        "storage_requirements": "Store at room temperature away from moisture"
+      },
+      "medical_information": {
+        "primary_uses": "Gastroesophageal reflux disease (GERD), erosive esophagitis, duodenal ulcers, H. pylori infection (as part of combination therapy), Zollinger-Ellison syndrome",
+        "contraindications": "Hypersensitivity to omeprazole or other PPIs",
+        "side_effects": "Headache, abdominal pain, nausea, diarrhea, vomiting, flatulence",
+        "drug_interactions": "Clopidogrel, diazepam, phenytoin, warfarin, cilostazol, tacrolimus, atazanavir",
+        "warnings_precautions": "Increased risk of fractures with long-term use, vitamin B12 deficiency, hypomagnesemia, C. difficile infection",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$150-200 for 30 capsules (brand)",
+        "generic_price": "$10-40 for 30 capsules (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "AstraZeneca patient assistance program for eligible patients",
+        "typical_copay": "$30-60 brand, $5-15 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Proventil HFA/Ventolin HFA",
+        "generic_name": "Albuterol",
+        "manufacturer": "Teva/GSK",
+        "drug_class": "Short-Acting Beta-2 Agonist"
+      },
+      "composition": {
+        "active_ingredients": "Albuterol sulfate",
+        "strength_dosage": "90mcg per actuation",
+        "inactive_ingredients": "HFA-134a propellant, ethanol, oleic acid",
+        "form": "Inhalation aerosol"
+      },
+      "administration": {
+        "recommended_dosage": "1-2 inhalations every 4-6 hours as needed",
+        "frequency": "As needed for symptoms",
+        "special_instructions": "Prime the inhaler before first use or if not used for more than 2 weeks",
+        "duration_of_treatment": "As needed for acute symptoms",
+        "storage_requirements": "Store at room temperature. Do not puncture or expose to high heat"
+      },
+      "medical_information": {
+        "primary_uses": "Bronchospasm treatment/prevention in asthma and COPD, exercise-induced bronchospasm prevention",
+        "contraindications": "Hypersensitivity to albuterol or any components",
+        "side_effects": "Tremor, nervousness, headache, tachycardia, palpitations, increased blood pressure",
+        "drug_interactions": "Other adrenergic drugs, beta-blockers, diuretics, digoxin, MAOIs",
+        "warnings_precautions": "Paradoxical bronchospasm, cardiovascular effects, deterioration of asthma, hypersensitivity reactions",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$60-80 for 1 inhaler (brand)",
+        "generic_price": "$30-50 for 1 inhaler (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Manufacturer assistance programs for eligible patients",
+        "typical_copay": "$20-50 brand, $5-25 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Prozac",
+        "generic_name": "Fluoxetine",
+        "manufacturer": "Eli Lilly",
+        "drug_class": "Selective Serotonin Reuptake Inhibitor (SSRI)"
+      },
+      "composition": {
+        "active_ingredients": "Fluoxetine hydrochloride",
+        "strength_dosage": "10mg, 20mg, 40mg, 90mg (weekly)",
+        "inactive_ingredients": "Starch, gelatin, silicone, titanium dioxide, iron oxide, shellac",
+        "form": "Capsule, Tablet, Oral solution, Delayed-release capsule"
+      },
+      "administration": {
+        "recommended_dosage": "20-80mg daily depending on indication",
+        "frequency": "Once daily in the morning or twice daily (morning and noon)",
+        "special_instructions": "Can be taken with or without food",
+        "duration_of_treatment": "Months to years depending on condition and response",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Major depressive disorder, obsessive-compulsive disorder, bulimia nervosa, panic disorder, premenstrual dysphoric disorder",
+        "contraindications": "Use of MAO inhibitors within 14 days, concomitant pimozide or thioridazine",
+        "side_effects": "Nausea, headache, insomnia, anxiety, nervousness, sexual dysfunction, drowsiness",
+        "drug_interactions": "MAOIs, triptans, other SSRIs/SNRIs, tryptophan, tramadol, linezolid, warfarin",
+        "warnings_precautions": "Suicidal thoughts/behaviors, serotonin syndrome, activation of mania/hypomania, seizures, QT prolongation",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); potential for neonatal complications if used in third trimester"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$200-300 for 30 capsules (brand)",
+        "generic_price": "$4-20 for 30 capsules (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many discount program formularies, including $4 generic programs",
+        "assistance_programs": "Eli Lilly patient assistance program for eligible patients",
+        "typical_copay": "$30-60 brand, $5-15 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Cymbalta",
+        "generic_name": "Duloxetine",
+        "manufacturer": "Eli Lilly",
+        "drug_class": "Serotonin and Norepinephrine Reuptake Inhibitor (SNRI)"
+      },
+      "composition": {
+        "active_ingredients": "Duloxetine hydrochloride",
+        "strength_dosage": "20mg, 30mg, 60mg",
+        "inactive_ingredients": "Hypromellose, hydroxypropyl methylcellulose acetate succinate, sucrose, sugar spheres, talc, titanium dioxide",
+        "form": "Delayed-release capsule"
+      },
+      "administration": {
+        "recommended_dosage": "30-60mg once daily or twice daily depending on indication",
+        "frequency": "Once daily or divided into two doses",
+        "special_instructions": "Swallow capsules whole; do not crush or chew. Can be taken with or without food",
+        "duration_of_treatment": "Months to years depending on condition and response",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Major depressive disorder, generalized anxiety disorder, diabetic peripheral neuropathic pain, fibromyalgia, chronic musculoskeletal pain",
+        "contraindications": "Use of MAO inhibitors within 14 days, uncontrolled narrow-angle glaucoma, alcohol consumption",
+        "side_effects": "Nausea, dry mouth, constipation, decreased appetite, fatigue, drowsiness, increased sweating",
+        "drug_interactions": "MAOIs, triptans, other SSRIs/SNRIs, tryptophan, tramadol, linezolid, warfarin, NSAIDs",
+        "warnings_precautions": "Suicidal thoughts/behaviors, hepatotoxicity, serotonin syndrome, abnormal bleeding, severe skin reactions",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); potential for neonatal complications if used in third trimester"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$300-400 for 30 capsules (brand)",
+        "generic_price": "$20-60 for 30 capsules (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Eli Lilly patient assistance program for eligible patients",
+        "typical_copay": "$30-75 brand, $10-30 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Singulair",
+        "generic_name": "Montelukast",
+        "manufacturer": "Merck",
+        "drug_class": "Leukotriene Receptor Antagonist"
+      },
+      "composition": {
+        "active_ingredients": "Montelukast sodium",
+        "strength_dosage": "4mg, 5mg, 10mg",
+        "inactive_ingredients": "Microcrystalline cellulose, lactose monohydrate, croscarmellose sodium, hydroxypropyl cellulose, magnesium stearate",
+        "form": "Tablet, Chewable tablet, Oral granules"
+      },
+      "administration": {
+        "recommended_dosage": "10mg for adults, 4-5mg for children based on age",
+        "frequency": "Once daily",
+        "special_instructions": "Take in the evening for asthma. Take 2 hours before exercise for exercise-induced bronchoconstriction",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Asthma prophylaxis, seasonal allergic rhinitis, prevention of exercise-induced bronchoconstriction",
+        "contraindications": "Hypersensitivity to montelukast or any components",
+        "side_effects": "Headache, upper respiratory infection, fever, influenza, abdominal pain, cough, dyspepsia",
+        "drug_interactions": "Strong CYP3A4 inducers (phenobarbital, rifampin)",
+        "warnings_precautions": "Neuropsychiatric events (agitation, depression, suicidal thinking), eosinophilic conditions, phenylketonuria",
+        "pregnancy_nursing": "Category B (no evidence of risk in humans); use during pregnancy or breastfeeding only if clearly needed"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$200-250 for 30 tablets (brand)",
+        "generic_price": "$10-40 for 30 tablets (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Merck patient assistance program for eligible patients",
+        "typical_copay": "$30-60 brand, $5-20 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Cozaar",
+        "generic_name": "Losartan",
+        "manufacturer": "Merck",
+        "drug_class": "Angiotensin II Receptor Blocker (ARB)"
+      },
+      "composition": {
+        "active_ingredients": "Losartan potassium",
+        "strength_dosage": "25mg, 50mg, 100mg",
+        "inactive_ingredients": "Microcrystalline cellulose, lactose hydrous, pregelatinized starch, magnesium stearate, hydroxypropyl cellulose",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "25-100mg once daily or divided into two doses",
+        "frequency": "Once daily or twice daily",
+        "special_instructions": "Can be taken with or without food, at the same time each day",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture, heat, and light"
+      },
+      "medical_information": {
+        "primary_uses": "Hypertension, diabetic nephropathy, reduction of stroke risk in patients with hypertension and left ventricular hypertrophy",
+        "contraindications": "Concomitant aliskiren in patients with diabetes, pregnancy",
+        "side_effects": "Dizziness, diarrhea, cough, upper respiratory infection, back pain, muscle cramps",
+        "drug_interactions": "ACE inhibitors, potassium-sparing diuretics, potassium supplements, lithium, NSAIDs",
+        "warnings_precautions": "Fetal toxicity, hypotension in volume- or salt-depleted patients, impaired renal function, hyperkalemia",
+        "pregnancy_nursing": "Category D (positive evidence of risk); contraindicated during pregnancy"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$150-200 for 30 tablets (brand)",
+        "generic_price": "$4-30 for 30 tablets (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many discount program formularies",
+        "assistance_programs": "Merck patient assistance program for eligible patients",
+        "typical_copay": "$30-60 brand, $5-20 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Celebrex",
+        "generic_name": "Celecoxib",
+        "manufacturer": "Pfizer",
+        "drug_class": "Nonsteroidal Anti-inflammatory Drug (NSAID), COX-2 Selective"
+      },
+      "composition": {
+        "active_ingredients": "Celecoxib",
+        "strength_dosage": "50mg, 100mg, 200mg, 400mg",
+        "inactive_ingredients": "Croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, sodium lauryl sulfate",
+        "form": "Capsule"
+      },
+      "administration": {
+        "recommended_dosage": "100-200mg twice daily depending on indication",
+        "frequency": "Once or twice daily depending on indication",
+        "special_instructions": "May be taken with or without food; taking with food may reduce stomach upset",
+        "duration_of_treatment": "Use lowest effective dose for shortest duration",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute pain, primary dysmenorrhea, juvenile rheumatoid arthritis",
+        "contraindications": "History of allergic reactions to sulfonamides or NSAIDs, advanced renal disease, third trimester of pregnancy",
+        "side_effects": "Abdominal pain, diarrhea, dyspepsia, flatulence, peripheral edema, dizziness, insomnia, rash",
+        "drug_interactions": "Aspirin, ACE inhibitors, furosemide, lithium, warfarin, fluconazole",
+        "warnings_precautions": "Cardiovascular thrombotic events, GI bleeding, hypertension, renal toxicity, severe skin reactions",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out) in first and second trimester, Category D (positive evidence of risk) in third trimester"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$300-400 for 30 capsules (brand)",
+        "generic_price": "$20-70 for 30 capsules (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Pfizer RxPathways program for eligible patients",
+        "typical_copay": "$30-75 brand, $10-30 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Plavix",
+        "generic_name": "Clopidogrel",
+        "manufacturer": "Sanofi-Aventis/Bristol-Myers Squibb",
+        "drug_class": "Antiplatelet Agent, P2Y12 Platelet Inhibitor"
+      },
+      "composition": {
+        "active_ingredients": "Clopidogrel bisulfate",
+        "strength_dosage": "75mg, 300mg",
+        "inactive_ingredients": "Hydrogenated castor oil, hydroxypropyl cellulose, mannitol, microcrystalline cellulose, polyethylene glycol",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "75mg once daily, may start with 300mg loading dose depending on indication",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken with or without food, at the same time each day",
+        "duration_of_treatment": "Varies from 1 month to indefinitely depending on indication",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Prevention of atherothrombotic events in patients with acute coronary syndrome, recent MI, recent stroke, or established peripheral arterial disease",
+        "contraindications": "Active pathological bleeding, hypersensitivity to clopidogrel or any components",
+        "side_effects": "Bleeding, bruising, rash, diarrhea, abdominal pain, dyspepsia, headache",
+        "drug_interactions": "CYP2C19 inhibitors (e.g., omeprazole), warfarin, NSAIDs, selective serotonin reuptake inhibitors",
+        "warnings_precautions": "Diminished effectiveness in CYP2C19 poor metabolizers, bleeding risk, thrombotic thrombocytopenic purpura",
+        "pregnancy_nursing": "Category B (no evidence of risk in humans); use during pregnancy or breastfeeding only if clearly needed"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$300-350 for 30 tablets (brand)",
+        "generic_price": "$10-50 for 30 tablets (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Sanofi patient assistance program for eligible patients",
+        "typical_copay": "$30-75 brand, $5-25 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Lyrica",
+        "generic_name": "Pregabalin",
+        "manufacturer": "Pfizer",
+        "drug_class": "Anticonvulsant, Gabapentinoid"
+      },
+      "composition": {
+        "active_ingredients": "Pregabalin",
+        "strength_dosage": "25mg, 50mg, 75mg, 100mg, 150mg, 200mg, 225mg, 300mg",
+        "inactive_ingredients": "Lactose monohydrate, corn starch, talc, gelatin, titanium dioxide",
+        "form": "Capsule, Oral solution"
+      },
+      "administration": {
+        "recommended_dosage": "150-600mg daily divided into 2-3 doses depending on indication",
+        "frequency": "Two or three times daily",
+        "special_instructions": "Can be taken with or without food",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Neuropathic pain, postherpetic neuralgia, fibromyalgia, partial onset seizures, diabetic peripheral neuropathy, spinal cord injury pain",
+        "contraindications": "Hypersensitivity to pregabalin or any components",
+        "side_effects": "Dizziness, somnolence, dry mouth, peripheral edema, blurred vision, weight gain, concentration/attention difficulties",
+        "drug_interactions": "CNS depressants, thiazolidinediones, opioids",
+        "warnings_precautions": "Angioedema, hypersensitivity reactions, suicidal behavior and ideation, CNS depression, dizziness and somnolence",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$500-700 for 30 capsules (brand)",
+        "generic_price": "$25-150 for 30 capsules (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Pfizer RxPathways program for eligible patients",
+        "typical_copay": "$40-100 brand, $10-50 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Xarelto",
+        "generic_name": "Rivaroxaban",
+        "manufacturer": "Janssen Pharmaceuticals",
+        "drug_class": "Factor Xa Inhibitor, Anticoagulant"
+      },
+      "composition": {
+        "active_ingredients": "Rivaroxaban",
+        "strength_dosage": "2.5mg, 10mg, 15mg, 20mg",
+        "inactive_ingredients": "Microcrystalline cellulose, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "10-20mg depending on indication",
+        "frequency": "Once daily or twice daily depending on indication",
+        "special_instructions": "10mg can be taken with or without food; 15mg and 20mg should be taken with food",
+        "duration_of_treatment": "Varies by indication from 35 days to indefinitely",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Prevention and treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), stroke prevention in nonvalvular atrial fibrillation, prevention of recurrent venous thromboembolism",
+        "contraindications": "Active pathological bleeding, severe hypersensitivity to rivaroxaban",
+        "side_effects": "Bleeding, back pain, dizziness, arthralgia, abdominal pain, wound secretion",
+        "drug_interactions": "Combined P-gp and strong CYP3A4 inhibitors or inducers, anticoagulants, NSAIDs, platelet aggregation inhibitors",
+        "warnings_precautions": "Increased bleeding risk, spinal/epidural hematoma with spinal procedures, use in renal impairment",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); not recommended during pregnancy or breastfeeding"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$450-550 for 30 tablets (brand)",
+        "generic_price": "No generic available yet",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for manufacturer savings card and various discount programs",
+        "assistance_programs": "Janssen CarePath program for eligible patients",
+        "typical_copay": "$40-100 with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Neurontin",
+        "generic_name": "Gabapentin",
+        "manufacturer": "Pfizer",
+        "drug_class": "Anticonvulsant, Gabapentinoid"
+      },
+      "composition": {
+        "active_ingredients": "Gabapentin",
+        "strength_dosage": "100mg, 300mg, 400mg, 600mg, 800mg",
+        "inactive_ingredients": "Cornstarch, talc, poloxamer, copovidone, gelatin, titanium dioxide",
+        "form": "Capsule, Tablet, Oral solution"
+      },
+      "administration": {
+        "recommended_dosage": "300-3600mg daily divided into 3 doses depending on indication",
+        "frequency": "Three times daily",
+        "special_instructions": "Can be taken with or without food; spacing doses evenly throughout the day",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Partial seizures, postherpetic neuralgia, neuropathic pain, restless legs syndrome, anxiety disorders (off-label), alcohol withdrawal (off-label)",
+        "contraindications": "Hypersensitivity to gabapentin or any components",
+        "side_effects": "Dizziness, somnolence, peripheral edema, ataxia, fatigue, nystagmus, tremor",
+        "drug_interactions": "CNS depressants, antacids, opioids",
+        "warnings_precautions": "Suicidal behavior and ideation, respiratory depression, drug reaction with eosinophilia and systemic symptoms (DRESS)",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$300-400 for 90 capsules (brand)",
+        "generic_price": "$10-100 for 90 capsules (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many discount program formularies, including $4 generic programs",
+        "assistance_programs": "Pfizer RxPathways program for eligible patients",
+        "typical_copay": "$30-75 brand, $5-20 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Vyvanse",
+        "generic_name": "Lisdexamfetamine",
+        "manufacturer": "Takeda Pharmaceuticals (formerly Shire)",
+        "drug_class": "Central Nervous System (CNS) Stimulant"
+      },
+      "composition": {
+        "active_ingredients": "Lisdexamfetamine dimesylate",
+        "strength_dosage": "10mg, 20mg, 30mg, 40mg, 50mg, 60mg, 70mg",
+        "inactive_ingredients": "Microcrystalline cellulose, croscarmellose sodium, magnesium stearate, gelatin, titanium dioxide",
+        "form": "Capsule, Chewable tablet"
+      },
+      "administration": {
+        "recommended_dosage": "30-70mg once daily",
+        "frequency": "Once daily in the morning",
+        "special_instructions": "Can be taken with or without food. Capsules can be opened and dissolved in water",
+        "duration_of_treatment": "Periodic reevaluation recommended for long-term therapy",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Attention-deficit/hyperactivity disorder (ADHD), moderate to severe binge eating disorder in adults",
+        "contraindications": "Advanced arteriosclerosis, symptomatic cardiovascular disease, moderate to severe hypertension, hyperthyroidism, agitated states, history of drug abuse, during or within 14 days of MAOIs",
+        "side_effects": "Decreased appetite, insomnia, dry mouth, increased heart rate, anxiety, irritability, weight loss",
+        "drug_interactions": "MAOIs, serotonergic drugs, CYP2D6 inhibitors, urinary acidifying agents, adrenergic blockers",
+        "warnings_precautions": "Potential for abuse and dependence, serious cardiovascular events, increased blood pressure, psychotic or manic symptoms, growth suppression",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use during pregnancy only if benefit justifies risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$350-450 for 30 capsules (brand)",
+        "generic_price": "Generic not available until 2023",
+        "insurance_coverage": "Usually covered by most insurance plans with prior authorization",
+        "discount_program": "Eligible for manufacturer savings program and various discount programs",
+        "assistance_programs": "Takeda Help At Hand program for eligible patients",
+        "typical_copay": "$30-100 with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Eliquis",
+        "generic_name": "Apixaban",
+        "manufacturer": "Bristol-Myers Squibb/Pfizer",
+        "drug_class": "Factor Xa Inhibitor, Anticoagulant"
+      },
+      "composition": {
+        "active_ingredients": "Apixaban",
+        "strength_dosage": "2.5mg, 5mg",
+        "inactive_ingredients": "Anhydrous lactose, microcrystalline cellulose, croscarmellose sodium, sodium lauryl sulfate, magnesium stearate",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "2.5-10mg daily depending on indication, typically 5mg twice daily",
+        "frequency": "Twice daily",
+        "special_instructions": "Can be taken with or without food",
+        "duration_of_treatment": "Varies by indication from 35 days to indefinitely",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Prevention of stroke and systemic embolism in nonvalvular atrial fibrillation, treatment and prevention of deep vein thrombosis (DVT) and pulmonary embolism (PE)",
+        "contraindications": "Active pathological bleeding, severe hypersensitivity to apixaban",
+        "side_effects": "Bleeding, bruising, nausea, anemia",
+        "drug_interactions": "Strong dual inhibitors of CYP3A4 and P-gp, strong dual inducers of CYP3A4 and P-gp, other anticoagulants, antiplatelet agents, NSAIDs",
+        "warnings_precautions": "Increased risk of thrombotic events with premature discontinuation, bleeding risk, spinal/epidural anesthesia or puncture",
+        "pregnancy_nursing": "Category B (no evidence of risk in humans); use during pregnancy or breastfeeding only if clearly needed"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$500-600 for 60 tablets (brand)",
+        "generic_price": "No generic available yet",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for manufacturer co-pay card and various discount programs",
+        "assistance_programs": "Bristol-Myers Squibb/Pfizer patient assistance program for eligible patients",
+        "typical_copay": "$40-100 with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Zetia",
+        "generic_name": "Ezetimibe",
+        "manufacturer": "Merck",
+        "drug_class": "Cholesterol Absorption Inhibitor"
+      },
+      "composition": {
+        "active_ingredients": "Ezetimibe",
+        "strength_dosage": "10mg",
+        "inactive_ingredients": "Lactose monohydrate, croscarmellose sodium, povidone, microcrystalline cellulose, magnesium stearate",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "10mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken with or without food, at any time of day",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Primary hyperlipidemia, mixed hyperlipidemia, homozygous familial hypercholesterolemia, homozygous sitosterolemia",
+        "contraindications": "Active liver disease, moderate to severe hepatic impairment, hypersensitivity to ezetimibe",
+        "side_effects": "Fatigue, diarrhea, arthralgia, upper respiratory tract infection, sinusitis",
+        "drug_interactions": "Cyclosporine, fibrates, cholestyramine, bile acid sequestrants",
+        "warnings_precautions": "Liver enzyme abnormalities, myopathy/rhabdomyolysis (especially when used with statins)",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$300-400 for 30 tablets (brand)",
+        "generic_price": "$20-80 for 30 tablets (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Merck patient assistance program for eligible patients",
+        "typical_copay": "$30-75 brand, $10-30 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Lasix",
+        "generic_name": "Furosemide",
+        "manufacturer": "Sanofi-Aventis",
+        "drug_class": "Loop Diuretic"
+      },
+      "composition": {
+        "active_ingredients": "Furosemide",
+        "strength_dosage": "20mg, 40mg, 80mg, 100mg",
+        "inactive_ingredients": "Lactose monohydrate, magnesium stearate, starch, talc, colloidal silicon dioxide",
+        "form": "Tablet, Oral solution, Injectable solution"
+      },
+      "administration": {
+        "recommended_dosage": "20-600mg daily depending on indication",
+        "frequency": "Once or twice daily",
+        "special_instructions": "Take with food if stomach upset occurs. Take early in the day to avoid nighttime urination",
+        "duration_of_treatment": "Varies by condition from short-term to long-term therapy",
+        "storage_requirements": "Store at room temperature away from light, moisture, and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Edema associated with heart failure, liver cirrhosis, renal disease; hypertension",
+        "contraindications": "Anuria, hypersensitivity to furosemide or sulfonamides",
+        "side_effects": "Fluid and electrolyte imbalances (hypokalemia, hyponatremia), dehydration, hypotension, dizziness, tinnitus",
+        "drug_interactions": "Aminoglycoside antibiotics, ethacrynic acid, lithium, NSAIDs, digitalis glycosides, other antihypertensives",
+        "warnings_precautions": "Hepatic and renal impairment, electrolyte depletion, ototoxicity, hypersensitivity reactions",
+        "pregnancy_nursing": "Category C (risk cannot be ruled out); use only if potential benefit justifies potential risk"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$50-100 for 30 tablets (brand)",
+        "generic_price": "$4-20 for 30 tablets (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many discount program formularies, including $4 generic programs",
+        "assistance_programs": "Patient assistance programs for eligible patients",
+        "typical_copay": "$10-30 brand, $0-10 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Januvia",
+        "generic_name": "Sitagliptin",
+        "manufacturer": "Merck",
+        "drug_class": "Dipeptidyl Peptidase-4 (DPP-4) Inhibitor"
+      },
+      "composition": {
+        "active_ingredients": "Sitagliptin phosphate",
+        "strength_dosage": "25mg, 50mg, 100mg",
+        "inactive_ingredients": "Microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, magnesium stearate",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "100mg once daily (dose adjusted for renal impairment)",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken with or without food",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Type 2 diabetes mellitus, as monotherapy or in combination with other antidiabetic agents",
+        "contraindications": "History of hypersensitivity to sitagliptin",
+        "side_effects": "Upper respiratory tract infection, nasopharyngitis, headache, hypoglycemia (when used with sulfonylureas or insulin)",
+        "drug_interactions": "Insulin, sulfonylureas, digoxin",
+        "warnings_precautions": "Pancreatitis, heart failure, hypoglycemia, severe joint pain, bullous pemphigoid, renal impairment",
+        "pregnancy_nursing": "Category B (no evidence of risk in humans); use during pregnancy or breastfeeding only if clearly needed"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$500-600 for 30 tablets (brand)",
+        "generic_price": "No generic available until 2022",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for manufacturer savings card and various discount programs",
+        "assistance_programs": "Merck patient assistance program for eligible patients",
+        "typical_copay": "$30-75 with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Diovan",
+        "generic_name": "Valsartan",
+        "manufacturer": "Novartis",
+        "drug_class": "Angiotensin II Receptor Blocker (ARB)"
+      },
+      "composition": {
+        "active_ingredients": "Valsartan",
+        "strength_dosage": "40mg, 80mg, 160mg, 320mg",
+        "inactive_ingredients": "Microcrystalline cellulose, colloidal silicon dioxide, crospovidone, magnesium stearate, hypromellose",
+        "form": "Tablet, Oral solution"
+      },
+      "administration": {
+        "recommended_dosage": "80-320mg once daily depending on indication",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken with or without food",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Hypertension, heart failure, post-myocardial infarction",
+        "contraindications": "Concomitant aliskiren in patients with diabetes, pregnancy",
+        "side_effects": "Dizziness, hypotension, headache, fatigue, diarrhea, arthralgia, back pain, hyperkalemia",
+        "drug_interactions": "ACE inhibitors, potassium-sparing diuretics, potassium supplements, lithium, NSAIDs",
+        "warnings_precautions": "Fetal toxicity, hypotension in volume- or salt-depleted patients, impaired renal function, hyperkalemia",
+        "pregnancy_nursing": "Category D (positive evidence of risk); contraindicated during pregnancy"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$200-300 for 30 tablets (brand)",
+        "generic_price": "$10-60 for 30 tablets (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Novartis patient assistance program for eligible patients",
+        "typical_copay": "$30-60 brand, $5-25 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Benicar",
+        "generic_name": "Olmesartan",
+        "manufacturer": "Daiichi Sankyo",
+        "drug_class": "Angiotensin II Receptor Blocker (ARB)"
+      },
+      "composition": {
+        "active_ingredients": "Olmesartan medoxomil",
+        "strength_dosage": "5mg, 20mg, 40mg",
+        "inactive_ingredients": "Hydroxypropyl cellulose, hypromellose, lactose monohydrate, low-substituted hydroxypropyl cellulose, magnesium stearate",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "20-40mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Can be taken with or without food",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Hypertension",
+        "contraindications": "Concomitant aliskiren in patients with diabetes, pregnancy",
+        "side_effects": "Dizziness, back pain, bronchitis, sinusitis, upper respiratory tract infection, diarrhea",
+        "drug_interactions": "ACE inhibitors, potassium-sparing diuretics, potassium supplements, lithium, NSAIDs, colesevelam",
+        "warnings_precautions": "Fetal toxicity, hypotension in volume- or salt-depleted patients, impaired renal function, sprue-like enteropathy",
+        "pregnancy_nursing": "Category D (positive evidence of risk); contraindicated during pregnancy"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$250-350 for 30 tablets (brand)",
+        "generic_price": "$15-80 for 30 tablets (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Daiichi Sankyo patient assistance program for eligible patients",
+        "typical_copay": "$30-75 brand, $10-30 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Zovirax",
+        "generic_name": "Acyclovir",
+        "manufacturer": "GlaxoSmithKline",
+        "drug_class": "Antiviral"
+      },
+      "composition": {
+        "active_ingredients": "Acyclovir",
+        "strength_dosage": "200mg, 400mg, 800mg (tablets); 5% (creams/ointments)",
+        "inactive_ingredients": "Lactose, microcrystalline cellulose, povidone, sodium starch glycolate, magnesium stearate",
+        "form": "Tablet, Capsule, Cream, Ointment, Suspension, Injectable solution"
+      },
+      "administration": {
+        "recommended_dosage": "200-800mg 2-5 times daily depending on indication",
+        "frequency": "2-5 times daily depending on indication",
+        "special_instructions": "Take with or without food. Maintain adequate hydration",
+        "duration_of_treatment": "5-10 days for acute infections; chronic therapy for suppression",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Herpes simplex virus infections (genital herpes, cold sores), herpes zoster (shingles), varicella (chickenpox)",
+        "contraindications": "Hypersensitivity to acyclovir or valacyclovir",
+        "side_effects": "Nausea, vomiting, diarrhea, headache, malaise, rash, dizziness",
+        "drug_interactions": "Probenecid, cimetidine, zidovudine, theophylline, nephrotoxic drugs",
+        "warnings_precautions": "Renal impairment, neurological reactions, thrombotic thrombocytopenic purpura/hemolytic uremic syndrome",
+        "pregnancy_nursing": "Category B (no evidence of risk in humans); use during pregnancy or breastfeeding only if clearly needed"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$100-200 for 30 tablets (brand)",
+        "generic_price": "$10-50 for 30 tablets (generic)",
+        "insurance_coverage": "Widely covered by insurance plans",
+        "discount_program": "Available on many discount program formularies",
+        "assistance_programs": "Patient assistance programs for eligible patients",
+        "typical_copay": "$20-50 brand, $5-20 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Jardiance",
+        "generic_name": "Empagliflozin",
+        "manufacturer": "Boehringer Ingelheim/Eli Lilly",
+        "drug_class": "Sodium-Glucose Cotransporter 2 (SGLT2) Inhibitor"
+      },
+      "composition": {
+        "active_ingredients": "Empagliflozin",
+        "strength_dosage": "10mg, 25mg",
+        "inactive_ingredients": "Lactose monohydrate, microcrystalline cellulose, hydroxypropyl cellulose, croscarmellose sodium, colloidal silicon dioxide",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "10-25mg once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Take in the morning with or without food",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "Type 2 diabetes mellitus, to reduce risk of cardiovascular death in adults with type 2 diabetes and established cardiovascular disease, heart failure with reduced ejection fraction",
+        "contraindications": "Severe renal impairment, end-stage renal disease, dialysis, hypersensitivity to empagliflozin",
+        "side_effects": "Urinary tract infections, female genital mycotic infections, increased urination, thirst, hypoglycemia (when used with insulin or insulin secretagogues)",
+        "drug_interactions": "Diuretics, insulin, insulin secretagogues, other antihyperglycemic drugs",
+        "warnings_precautions": "Hypotension, ketoacidosis, acute kidney injury, urosepsis and pyelonephritis, hypoglycemia, necrotizing fasciitis of the perineum (Fournier's gangrene)",
+        "pregnancy_nursing": "Not recommended during second and third trimesters; use during first trimester or breastfeeding only if clearly needed"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$550-650 for 30 tablets (brand)",
+        "generic_price": "No generic available yet",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for manufacturer savings card and various discount programs",
+        "assistance_programs": "Boehringer Ingelheim patient assistance program for eligible patients",
+        "typical_copay": "$40-100 with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Humira",
+        "generic_name": "Adalimumab",
+        "manufacturer": "AbbVie",
+        "drug_class": "Tumor Necrosis Factor (TNF) Blocker, Biologic Response Modifier"
+      },
+      "composition": {
+        "active_ingredients": "Adalimumab",
+        "strength_dosage": "10mg/0.1mL, 20mg/0.2mL, 40mg/0.4mL, 80mg/0.8mL",
+        "inactive_ingredients": "Water for injection, sodium chloride, monobasic sodium phosphate dihydrate, dibasic sodium phosphate dihydrate, sodium citrate, citric acid monohydrate, mannitol, polysorbate 80",
+        "form": "Solution for subcutaneous injection"
+      },
+      "administration": {
+        "recommended_dosage": "40-80mg every 1-2 weeks depending on indication",
+        "frequency": "Every 1-2 weeks depending on indication",
+        "special_instructions": "Refrigerate until ready to use; allow to reach room temperature before injecting. Rotate injection sites",
+        "duration_of_treatment": "Long-term therapy for chronic conditions",
+        "storage_requirements": "Refrigerate at 36-46°F (2-8°C). Do not freeze. Protect from light"
+      },
+      "medical_information": {
+        "primary_uses": "Rheumatoid arthritis, juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn's disease, ulcerative colitis, plaque psoriasis, hidradenitis suppurativa, uveitis",
+        "contraindications": "Serious active infection, hypersensitivity to adalimumab",
+        "side_effects": "Injection site reactions, upper respiratory infections, headache, rash, sinusitis, nausea",
+        "drug_interactions": "Live vaccines, anakinra, abatacept, other TNF blockers",
+        "warnings_precautions": "Serious infections, malignancy, reactivation of hepatitis B, demyelinating disease, cytopenias, heart failure, hypersensitivity reactions",
+        "pregnancy_nursing": "Consider risks and benefits during pregnancy and breastfeeding; crosses the placenta during third trimester"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$5000-6000 per month (brand)",
+        "generic_price": "Biosimilars available, $2000-4000 per month",
+        "insurance_coverage": "Typically covered by most insurance plans with prior authorization",
+        "discount_program": "Eligible for manufacturer savings program and various discount programs",
+        "assistance_programs": "AbbVie patient assistance program for eligible patients",
+        "typical_copay": "$50-500 with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Usually through specialty pharmacies",
+        "chain_affiliation": "Specialty pharmacies within major chains or independent specialty pharmacies",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "Truvada",
+        "generic_name": "Emtricitabine and Tenofovir disoproxil fumarate",
+        "manufacturer": "Gilead Sciences",
+        "drug_class": "Nucleoside Reverse Transcriptase Inhibitor (NRTI) Combination"
+      },
+      "composition": {
+        "active_ingredients": "Emtricitabine and Tenofovir disoproxil fumarate",
+        "strength_dosage": "200mg/300mg",
+        "inactive_ingredients": "Croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch",
+        "form": "Tablet"
+      },
+      "administration": {
+        "recommended_dosage": "One tablet once daily",
+        "frequency": "Once daily",
+        "special_instructions": "Take with or without food",
+        "duration_of_treatment": "Long-term therapy for HIV treatment; daily use for PrEP",
+        "storage_requirements": "Store at room temperature away from moisture and heat"
+      },
+      "medical_information": {
+        "primary_uses": "HIV-1 infection treatment (in combination with other antiretrovirals), pre-exposure prophylaxis (PrEP) to reduce risk of sexually acquired HIV-1 in high-risk individuals",
+        "contraindications": "Unknown or positive HIV-1 status when used for PrEP, hypersensitivity to components",
+        "side_effects": "Nausea, headache, diarrhea, fatigue, dizziness, depression, insomnia, abnormal dreams, rash",
+        "drug_interactions": "Didanosine, atazanavir, lopinavir/ritonavir, drugs that reduce renal function or compete for active tubular secretion",
+        "warnings_precautions": "New onset or worsening renal impairment, lactic acidosis, severe hepatomegaly with steatosis, bone loss and mineralization defects, immune reconstitution syndrome",
+        "pregnancy_nursing": "Pregnancy Exposure Registry for pregnant women exposed to Truvada; use during pregnancy or breastfeeding only if clearly needed"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$1800-2000 for 30 tablets (brand)",
+        "generic_price": "$200-600 for 30 tablets (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for manufacturer co-pay card and various discount programs",
+        "assistance_programs": "Gilead patient assistance program for eligible patients",
+        "typical_copay": "$40-100 brand, $20-50 generic with insurance"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at most pharmacies",
+        "chain_affiliation": "All major pharmacy chains and specialty pharmacies",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    },
+    {
+      "basic_details": {
+        "brand_name": "NuvaRing",
+        "generic_name": "Etonogestrel/Ethinyl estradiol vaginal ring",
+        "manufacturer": "Merck",
+        "drug_class": "Hormonal Contraceptive"
+      },
+      "composition": {
+        "active_ingredients": "Etonogestrel and Ethinyl estradiol",
+        "strength_dosage": "11.7mg etonogestrel/2.7mg ethinyl estradiol per ring (releases 0.12mg/0.015mg per day)",
+        "inactive_ingredients": "Ethylene vinylacetate copolymers, magnesium stearate",
+        "form": "Vaginal ring"
+      },
+      "administration": {
+        "recommended_dosage": "One ring for 3 weeks, followed by 1 week ring-free",
+        "frequency": "Replace every 3 weeks",
+        "special_instructions": "Insert into vagina and leave in place for 3 weeks, then remove for 1 week. Start new ring after 1-week break",
+        "duration_of_treatment": "As long as contraception is desired",
+        "storage_requirements": "Refrigerate before dispensing; after dispensing, store at room temperature for up to 4 months"
+      },
+      "medical_information": {
+        "primary_uses": "Prevention of pregnancy",
+        "contraindications": "High risk of arterial or venous thrombotic diseases, current or history of breast cancer or other estrogen- or progestin-sensitive cancer, liver tumors or disease, undiagnosed abnormal uterine bleeding, pregnancy",
+        "side_effects": "Headache, nausea, vomiting, breast tenderness, spotting, vaginal discharge, vaginal irritation",
+        "drug_interactions": "CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin), HIV protease inhibitors, certain antibiotics, St. John's wort",
+        "warnings_precautions": "Increased risk of cardiovascular events (particularly in smokers >35 years old), liver disease, hypertension, gallbladder disease, diabetes, depression",
+        "pregnancy_nursing": "Contraindicated during pregnancy; not recommended during breastfeeding"
+      },
+      "cost_coverage": {
+        "average_retail_price": "$200-250 per ring (brand)",
+        "generic_price": "$100-150 per ring (generic)",
+        "insurance_coverage": "Typically covered by most insurance plans",
+        "discount_program": "Eligible for various discount programs",
+        "assistance_programs": "Merck patient assistance program for eligible patients",
+        "typical_copay": "$0-50 with insurance (often $0 under ACA)"
+      },
+      "pharmacy_data": {
+        "pharmacy_name": "Available at all pharmacies",
+        "chain_affiliation": "All major pharmacy chains",
+        "operating_hours": "Varies by pharmacy location"
+      }
+    }
+  ]
