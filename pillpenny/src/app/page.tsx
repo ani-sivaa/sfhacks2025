@@ -78,6 +78,7 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-warm-beige overflow-hidden">
+      
       <AnimatePresence mode="wait">
         {isLoading ? (
           <motion.div
@@ -102,39 +103,10 @@ export default function Home() {
                 animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.5 }}
               >
-                Pill Penny
+                Pill 💊 Penny 
               </motion.h1>
               
-              {/* Enhanced Spinning Pill Animation */}
-              <motion.div
-                className="relative mb-8"
-                initial={{ scale: 0 }}
-                animate={{ scale: 1 }}
-                transition={{ type: 'spring', stiffness: 260, damping: 20 }}
-              >
-                <motion.div
-                  className="w-20 h-20 rounded-full relative"
-                  animate={{
-                    rotate: 360,
-                    scale: [1, 1.1, 1],
-                  }}
-                  transition={{
-                    duration: 1.2,
-                    ease: "linear",
-                    repeat: Infinity,
-                    scale: {
-                      duration: 1.5,
-                      repeat: Infinity,
-                      repeatType: "mirror",
-                    }
-                  }}
-                >
-                  <div className="absolute inset-0 rounded-full bg-gradient-conic from-deep-maroon via-healing-green to-deep-maroon animate-spin blur-[2px]" />
-                  <div className="absolute inset-1 bg-warm-beige/90 rounded-full backdrop-blur-sm flex items-center justify-center">
-                    <div className="w-2 h-6 bg-healing-green rounded-full animate-pulse" />
-                  </div>
-                </motion.div>
-              </motion.div>
+
 
               <motion.div
                 className="relative"
